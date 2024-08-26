@@ -1,2 +1,2 @@
-## Rxpense Tracker Using Graphql
+## Expense Tracker Using Graphql
 
