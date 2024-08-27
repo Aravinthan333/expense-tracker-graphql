@@ -1,4 +1,4 @@
-export const TypeDef = `#graphql
+const TypeDef = `#graphql
 
     type User {
         _id: ID!
@@ -37,3 +37,5 @@ export const TypeDef = `#graphql
         message: String!
     }
 `;
+
+export default TypeDef;
