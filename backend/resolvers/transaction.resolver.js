@@ -111,3 +111,12 @@
 // };
 
 // export default transactionResolver;
+
+// =====================================================================================================================================
+
+const transactionResolver = {
+  Query: {},
+  Mutation: {},
+};
+
+export default transactionResolver;

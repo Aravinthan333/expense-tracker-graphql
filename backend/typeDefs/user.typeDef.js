@@ -33,7 +33,7 @@ const TypeDef = `#graphql
         password: String!
     }
 
-    input LogoutResponse{
+    type LogoutResponse{
         message: String!
     }
 `;
